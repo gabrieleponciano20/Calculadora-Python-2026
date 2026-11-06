@@ -1,4 +1,4 @@
-# Calculadora Python 2024 
+# Calculadora Python 2026
 Repositório dedicado ao desenvolvimento de uma aplicação de calculadora em ambiente Python, estruturada para a 
 consolidação de competências em programação, lógica computacional e conceção de interfaces gráficas de utilizador.
 
